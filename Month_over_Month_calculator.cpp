@@ -10,4 +10,5 @@ int main() {
   double MoM = (month_2 - month_1)/ month_1 *100;
   std::cout << "The rate of change from the previous month to this month is about " << MoM << " %" ; 
 
+
 }
